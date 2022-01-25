@@ -21,3 +21,5 @@ remote -v
 add
 commit
 push origin main
+
+These items have been reviewed and added to Anki flashcards
